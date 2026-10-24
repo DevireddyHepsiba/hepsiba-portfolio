@@ -1,0 +1,48 @@
+# Hepsiba Devireddy — Portfolio overview
+
+Hepsiba Devireddy is a Computer Science and Engineering student at SRKR Engineering College in Bhimavaram, Andhra Pradesh. She is pursuing a B.Tech degree (2023–2027; CGPA 8.94/10) and is interested in full-stack web development, practical products, software problem-solving, AI-powered applications, and developing video-editing skills.
+
+## Experience
+Java Developer Intern, Infosys Springboard 6.0 (remote), Aug–Sep 2025. Resume-listed work includes authentication, RESTful APIs, and AI-powered PDF generation features in a collaborative full-stack project.
+
+## Selected project: AI Learning Platform
+The public repository README describes a full-stack study application with PDF uploads, document chat, AI-generated summaries, flashcards and quizzes, progress features, and collaborative study sessions. Listed technologies include React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Socket.IO, JWT, and Gemini integration. This summary reflects repository documentation and does not independently certify current production functionality.
+Repository: https://github.com/DevireddyHepsiba/AI-learning-Platform
+Demo: https://ai-learning-platform-silk-eight.vercel.app/
+
+## Selected project: Store
+The résumé describes a PERN commerce project with product management, authentication, payments, order tracking, and customer support features. Listed integrations include Clerk, Stream Chat & Video, Polar, ImageKit, and Sentry. These details are résumé-sourced; current demo and service availability can change.
+Repository: https://github.com/DevireddyHepsiba/Store
+Demo: https://store-beryl-five.vercel.app/
+
+## Other project: Code Bridge
+The public repository describes an AI presentation-coaching concept. Implementation maturity and working capabilities have not been independently verified.
+Repository: https://github.com/DevireddyHepsiba/code_bridge
+
+## Achievements
+- Selected as a Zuvy Scholar among 2,000+ applicants
+- TCS CodeVita Season 13, global rank 17,720
+- 300+ problems solved across LeetCode and GeeksforGeeks
+- Executive Body Member, SRKR Coding Club
+
+## Certifications
+- AWS Certified Solutions Architect Associate — GeeksforGeeks
+- Programming in Java — NPTEL
+- Data Structures and Algorithms using Java (issuer not listed in the résumé)
+
+## Skills listed in the résumé
+Languages: Java, Python, JavaScript, SQL.
+Frontend: React.js, HTML5, CSS3, Bootstrap.
+Backend: Spring Boot, Spring MVC, REST APIs, JPA/Hibernate, Express.js, Node.js.
+Databases: MySQL, MongoDB, PostgreSQL.
+AWS: EC2, S3, DynamoDB, Lambda, CloudWatch, CloudTrail, SNS, SQS.
+Tools and foundations: Git, GitHub, VS Code, Postman, DSA, OOP, DBMS.
+
+## Profiles and contact
+GitHub: https://github.com/DevireddyHepsiba
+LinkedIn: https://www.linkedin.com/in/hepsiba-devireddy-2685622a6/
+LeetCode: https://leetcode.com/u/Striver_girl/
+Email: hepsibadevireddy@gmail.com
+Phone: +91 77029 97635
+Location: Bhimavaram, Andhra Pradesh
+Résumé: /resume.pdf

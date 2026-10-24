@@ -1,0 +1,27 @@
+# Hepsiba Devireddy — Portfolio
+
+Computer Science and Engineering student at SRKR Engineering College, graduating in 2027, focused on full-stack web development and exploring AI-powered applications.
+
+## Pages
+- Portfolio: /
+- Selected work: /#work
+- Experience and education: /#journey
+- Achievements and certifications: /#recognition
+- Contact: /#contact
+- Résumé: /resume.pdf
+
+## Education and experience
+- B.Tech in Computer Science and Engineering, SRKR Engineering College, 2023–2027; CGPA 8.94/10
+- Java Developer Intern, Infosys Springboard 6.0, remote, Aug–Sep 2025
+
+## Projects
+- AI Learning Platform: https://github.com/DevireddyHepsiba/AI-learning-Platform
+- Store: https://github.com/DevireddyHepsiba/Store
+- Code Bridge (exploratory): https://github.com/DevireddyHepsiba/code_bridge
+
+## Profiles and contact
+- GitHub: https://github.com/DevireddyHepsiba
+- LinkedIn: https://www.linkedin.com/in/hepsiba-devireddy-2685622a6/
+- LeetCode: https://leetcode.com/u/Striver_girl/
+- Email: hepsibadevireddy@gmail.com
+- Location: Bhimavaram, Andhra Pradesh
